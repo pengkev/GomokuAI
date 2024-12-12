@@ -94,4 +94,3 @@ The program will determine and print the best move for the AI and identify if th
 
 - **Kevin Peng**
 
-Feel free to contribute or provide feedback!
